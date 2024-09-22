@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Argentina?',
+    'A capital da Argentina é Buenos Aires'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz bom dia em Inglês?',
+    'Bom dia em ingles é Good morning'
 )
