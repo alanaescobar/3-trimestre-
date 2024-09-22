@@ -1,7 +1,7 @@
 :root {
     --text-color: #f8f8f8;
-    --card-front-color: hsl(216, 56%, 4%);
-    --card-back-color: #0b9779;
+    --card-front-color: hsl(135, 79%, 38%);
+    --card-back-color: #109ed6;
 }
 
 body {
@@ -92,7 +92,7 @@ body {
 
 
 footer {
-    background-color: black;
+    background-color: rgb(141, 22, 22);
     color: white;
     position: fixed;
     bottom: 0;
@@ -117,11 +117,11 @@ footer p {
     }
 
     .cartao__conteudo h3 {
-        font-size: 3vw;
+        font-family: 3vw;
     }
 
     .cartao__conteudo p {
-        font-size: 3.8vw;
+        font-family: 3.8vw;
     }
 }
 
